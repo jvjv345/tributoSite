@@ -1,0 +1,10 @@
+.caixa{
+	display: flex;
+align-items: center;
+}
+.caixa .lista{
+margin-left: 100px
+}
+.caixa .imagem{
+margin-left: 600px
+}
